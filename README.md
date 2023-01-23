@@ -1,2 +1,2 @@
 # RepositorioGoku
-GokuGokuGoku
+GokuVegetta=Gogeta
